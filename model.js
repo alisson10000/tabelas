@@ -68,3 +68,6 @@ Ususarios.create({
     emailUsuario:"andre@gmail.com",
     nascimentoUsuario:'2003-01-01'
 })
+
+
+//Exercicio os alunos façam o mesmo para a tabela postagem
