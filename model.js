@@ -70,4 +70,4 @@ Ususarios.create({
 })
 
 
-//Exercicio os alunos façam o mesmo para a tabela postagem
+//Exercicio os alunos façam o mesmo para a tabela postagens
