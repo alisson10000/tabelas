@@ -56,3 +56,15 @@ const Ususarios = sequelize.define('usuarios',{
 // A função abaixo força a criação da tabela postagens
 
 //Ususarios.sync({force:true})
+
+//Método para salvar os dados no banco de dados
+
+
+
+Ususarios.create({
+    nomeUsusario:"Andre",
+    sobrenomeUsusario:"SAntos",
+    idadeUsuario:20,
+    emailUsuario:"andre@gmail.com",
+    nascimentoUsuario:'2003-01-01'
+})
